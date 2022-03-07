@@ -2,7 +2,7 @@
 
 Estos son los entregables de la primer semana de la Misión Frontend del Curso de Innovacción Digital
 
-## Indice
+## Índice
 1. Introducción
 2. Descripción y requerimientos de caso "Abogabot"
 3. Buyer persona
@@ -40,6 +40,8 @@ En la siguiente documentación, se podrá apreciar el proceso de análisis de re
 
 ## Descripción del Buyer Persona
 
+![Buyer Persona](https://github.com/MikoVelascoRamirez/IntroProgramaci-nFrontend/blob/master/BuyerPersona/Mario%20Figueroa.pdf)
+
 Para este caso, se creó un prototipo de nombre Mario Figueroa, de origen mexicano, actualmente tiene 35 años y es CEO Manager de *FinGaining*, una empresa asesora en inversión en activos digitales, esposo y padre de dos hijos.
 
 Egresado de la Licenciatura de Finanzas de la Universidad Autónoma de México, siempre ha demostrado una personalidad caritativa y filántropa a ayudar a todo aquello existente, en especial a las personas de bajos recursos y con problemas para generar riqueza que le permitan cumplir sus objetivos y lograr la libertad financiera.
@@ -75,6 +77,8 @@ Desde pequeño, sufrió varias carencias económicas que no le permitieron desar
 * No contar con tiempo suficiente para su esposa e hijos.
 
 ## Público Objetivo
+![Público Objetivo](https://github.com/MikoVelascoRamirez/IntroProgramaci-nFrontend/blob/master/P%C3%BAblico%20Objetivo/P%C3%BAblico%20objetivo%20Abogabot.jpg)
+
 ### Marco 
 Se entiende como marco como las características generales que ayudarán a segmentar al público, debe contemplar la descripción del producto.
 
@@ -110,11 +114,12 @@ Son las características que debe un cliente tener obligatoriamente para calific
 * Ser reconocido jurídicamente ante la ley
 
 ## Wireframing de la aplicación
-Para el maquetado de la aplicación se realizaron dos prototipos de aplicación, uno para el __usuario de tipo común__ y otro para el __administrador__.
+Para el maquetado de la aplicación se realizaron dos prototipos de aplicación, uno para el __usuario de tipo común__ y otro para el __administrador__,
+segmentando por secciones y funcionalidades las interfaces de aplicación, con el fin de darle mayor claridad y legibilidad al usuario que esté leyendo la presente documentación.
 
 ### Wireframing - Usuario Común
 
-Como se puede apreciar, se optó por dividir por secciones y funcionalidades las interfaces de aplicación, con el fin de darle mayor claridad y legibilidad al usuario que esté leyendo la presente documentación.
+![Wireframing Abogabot](https://github.com/MikoVelascoRamirez/IntroProgramaci-nFrontend/blob/master/Wireframing/Abogabot%20-%20User%20Wireframe.png)
 
 1. __Vista General__: en esta sección, podremos observar las ventanas principales del sitio web de __M&V S.A de C.V.__, disponibles al momento de su visita por primera vez, indicando el inicio de dicha experiencia para este tipo de usuario.
 2. __Solicitud de demanda (inicio)__: el usuario deberá dar click en el menú del encabezado donde se encuentra la opción de *Abogabot*, la cual lo redirigirá a la sección informativa del producto donde encontrará un banner principal con otro botón, que será el inicio del __proceso de solicitud de demanda__.
@@ -132,6 +137,8 @@ Como se puede apreciar, se optó por dividir por secciones y funcionalidades las
 
 ### Wireframing - Usuario de tipo Administrador
 
+![Wireframing Abogabot](https://github.com/MikoVelascoRamirez/IntroProgramaci-nFrontend/blob/master/Wireframing/Abogabot%20-%20Administrator%20Wireframe.png)
+
 1. __Vista General__: en esta sección, podremos observar las ventanas principales del sitio web de __M&V S.A de C.V.__, disponibles al momento de su visita por primera vez, indicando el inicio de dicha experiencia para este tipo de usuario.
 2. __Inicio de sesión__: el usuario introucirá su nombre de usuario y contraseña, si hay algún error, se notifica mediante pantalla con una leyend, de lo contrario podrá acceder a su perfil de usuario.
 3. __Demandas en curso__: el administrador podrá consultar todas las demandas en curso que el despacho tiene a su cargo, para ello, deberá dar click en el menú del encabezado donde se encuentra la opción de *Demandas*, la cual lo redirigirá a un registro de todos los procesos en turno, podrá ver información importante como el id de la demanda, el estado de la misma, sus detalles, nombre del demandante, etc. En cada registro tiene la posibilidad de terminar un proceso de demanda. 
@@ -145,5 +152,5 @@ Como se puede apreciar, se optó por dividir por secciones y funcionalidades las
 
 ## User Interface App
 
-Para visualizar el diseño de interfaz de usuario, puede hacerlo dando clic aquí.
+Para visualizar el diseño de interfaz de usuario, puede hacerlo dando clic ![aquí](https://github.com/MikoVelascoRamirez/IntroProgramaci-nFrontend/tree/master/User%20Interface).
 
