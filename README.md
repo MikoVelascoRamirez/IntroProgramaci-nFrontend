@@ -3,14 +3,14 @@
 Estos son los entregables de la primer semana de la Misión Frontend del Curso de Innovacción Digital
 
 ## Índice
-1. [Introducción](##Introducción)
-2. [Descripción y requerimientos de caso "Abogabot"](##Descripción-y-requerimientos-de-caso-"Abogabot")
-3. [Buyer persona](##Descripción-del-Buyer-Persona)
-4. [Público Objetivo](##Público-Objetivo)
-5. [Wireframing de la aplicación](##Wireframing-de-la-aplicación)
-	- [ Wireframing - Usuario Común](###Wireframing-\-\-Usuario Común)
-	- [ Wireframing - Usuario de tipo Administrador](###Wireframing-\-\-Usuario de tipo Administrador)
-6. [User Interface App](##User-Interface-App)
+1. [Introducción](##introducción)
+2. [Descripción y requerimientos de caso "Abogabot"](##descripción-y-requerimientos-de-caso-"abogabot")
+3. [Buyer persona](##descripción-del-buyer-persona)
+4. [Público Objetivo](##público-objetivo)
+5. [Wireframing de la aplicación](##wireframing-de-la-aplicación)
+	- [ Wireframing - Usuario Común](###wireframing---usuario-común)
+	- [ Wireframing - Usuario de tipo Administrador](###wireframing---usuario-de-tipo-administrador)
+6. [User Interface App](##user-interface-app)
 
 
 ## Introducción
