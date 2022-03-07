@@ -1,4 +1,4 @@
-# LaunchX- Ejercicios Semana 1
+# LaunchX - Ejercicios Semana 1
 
 Estos son los entregables de la primer semana de la Misión Frontend del Curso de Innovacción Digital
 
