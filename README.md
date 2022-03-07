@@ -4,7 +4,7 @@ Estos son los entregables de la primer semana de la Misión Frontend del Curso d
 
 ## Índice
 1. [Introducción](##Introducción)
-2. [Descripción y requerimientos de caso "Abogabot"](##Descripción y requerimientos de caso "Abogabot")
+2. [Descripción y requerimientos de caso "Abogabot"](##Descripción y requerimientos de caso Abogabot)
 3. [Buyer persona](##Descripción del Buyer Persona)
 4. [Público Objetivo](##Público Objetivo)
 5. [Wireframing de la aplicación](## ireframing de la aplicación)
